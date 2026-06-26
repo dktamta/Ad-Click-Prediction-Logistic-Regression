@@ -148,7 +148,7 @@ The Logistic Regression model predicts ad clicks with **97% accuracy** using jus
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/Ad-Click-Prediction-Logistic-Regression.git
+git clone https://github.com/dktamta/Ad-Click-Prediction-Logistic-Regression.git
 cd Ad-Click-Prediction-Logistic-Regression
 
 # Install dependencies
